@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/00_GitRepo/logwire-unit-tests"><classes><class name="logwire.AppTest"><methods><include name="shouldAnswerWithTrue"/></methods></class><class name="logwire.TestJApp1_1"><methods><include name="exeUnitTest"/></methods></class></classes></test></suite>

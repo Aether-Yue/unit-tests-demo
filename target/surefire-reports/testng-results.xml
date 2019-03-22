@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="679" started-at="2019-03-22T02:37:30Z" finished-at="2019-03-22T02:37:30Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="679" started-at="2019-03-22T02:37:30Z" finished-at="2019-03-22T02:37:30Z">
+      <class name="logwire.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:logwire.AppTest@3f49dace]" name="shouldAnswerWithTrue" duration-ms="105" started-at="2019-03-22T10:37:30Z" finished-at="2019-03-22T10:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- logwire.AppTest -->
+      <class name="logwire.TestJApp1_1">
+        <test-method status="PASS" signature="exeUnitTest()[pri:0, instance:logwire.TestJApp1_1@4f7d0008]" name="exeUnitTest" duration-ms="477" started-at="2019-03-22T10:37:30Z" finished-at="2019-03-22T10:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exeUnitTest -->
+      </class> <!-- logwire.TestJApp1_1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
